@@ -1,2 +1,2 @@
 # apnacollege
-we will learn about git
+we will learn about hu git
